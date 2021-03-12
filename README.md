@@ -2,9 +2,9 @@
 ## by Caira Telesford
 
 
-Thank you so much for the oppurunity to complete this assessment. It really gave me a great idea of what type of projects I would be working on if I am fortunate enough to be selected for the residency!
+Thank you so much for the opportunity to complete this assessment. It really gave me a great idea of what type of projects I would be working on if I am fortunate enough to be selected for the residency!
 
-I learned a lot and I did a lot of googling and I am very happy with my final result.
+I learned a lot and I did a lot of Googling and I am very happy with my final result.
 
 
 To access the information requested:
