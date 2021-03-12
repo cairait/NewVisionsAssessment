@@ -11,7 +11,8 @@ To access the information requested:
 - Please fork the code onto your local computer
 - Use the HTML file to open the webpage onto your local browser (preferably Google Chrome)
 - Right click and select 'inspect'
-- In the console, you should see the data requested (you may have to click on the carrots to reveal a dropdown with information)
+- You should now see Elements, Console, Sources, Network, Performance, Memory, Application, and Lighthouse at the heading of the developer tools
+- In the Google Chrome Console, you should see the data requested (you may have to click on the carrots to reveal a dropdown with information)
 
 Thank you so much for your consideration!
 
