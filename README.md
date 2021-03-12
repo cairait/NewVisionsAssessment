@@ -9,7 +9,7 @@ I learned a lot and I did a lot of googling and I am very happy with my final re
 
 To access the information requested:
 - Please fork the code onto your local computer
-- Use the HTMl file to open the webpage on your local browser (preferebly Google Chrome)
+- Use the HTML file to open the webpage onto your local browser (preferably Google Chrome)
 - Right click and select 'inspect'
 - In the console, you should see the data requested (you may have to click on the carrots to reveal a dropdown with information)
 
